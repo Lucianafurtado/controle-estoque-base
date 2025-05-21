@@ -1,0 +1,1 @@
+//classe utilitarias para o sistemas
